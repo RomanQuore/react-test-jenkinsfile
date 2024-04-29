@@ -1,4 +1,4 @@
 
-@Library('devops@develop') _
+@Library('devops1@develop') _
 
 pipelineGeneral()
